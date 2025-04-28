@@ -8,10 +8,10 @@ This project analyzes Blinkit's sales data to uncover business insights related 
 
 - Power BI Visualizations: Developed dynamic reports using:
 
--- Charts (Bar, Line, Pie)
+  - Charts (Bar, Line, Pie)
 
--- Cards (for KPIs like Average Sales, Average Rating)
+  - Cards (for KPIs like Average Sales, Average Rating)
 
--- Tables (for detailed item analysis)
+  - Tables (for detailed item analysis)
 
--- Slicers/Filters (for user-driven data exploration)
+  - Slicers/Filters (for user-driven data exploration)
