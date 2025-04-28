@@ -2,7 +2,7 @@
 This project analyzes Blinkit's sales data to uncover business insights related to customer behavior, product performance, and inventory management. The goal was to clean, transform, and visualize the data effectively using Power BI, enabling smarter decision-making for operational improvements.
 
 ## Tools & Techniques Used
-Power Query Editor: Performed extensive data cleaning and preprocessing.
+- Power Query Editor: Performed extensive data cleaning and preprocessing.
 
 DAX (Data Analysis Expressions): Created custom measures and KPIs.
 
